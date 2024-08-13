@@ -1,0 +1,8 @@
+Operators in javascript
+1)arithmetic:
+2)logical
+3)assignment
+4)comparison 
+5)bitwise
+== vs===
+=== designed for data type comparison and ==  for content comparison...
